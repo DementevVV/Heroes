@@ -1,7 +1,7 @@
 {
   "name": "angular-quickstart",
   "version": "1.0.0",
-  "description": "",
+  "description": "Heroes",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
